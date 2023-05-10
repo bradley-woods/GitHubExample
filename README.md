@@ -1,4 +1,4 @@
-# GitHubExample
+# GitHub Example
 
 - Item one
 - Item two
@@ -6,4 +6,4 @@
 
 # Another heading
 
-Some text
+Some text...
